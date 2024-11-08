@@ -3,3 +3,5 @@ This is the source code of "Language Ranker: A Metric for Quantifying LLM Perfor
 
 
 run.sh file shows how to get similarity scores of each language pair
+
+run.sh in QA folder shows how to get the performance in reasoning task for different languages
