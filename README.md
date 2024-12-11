@@ -4,4 +4,4 @@ This is the source code of "Language Ranker: A Metric for Quantifying LLM Perfor
 
 [run.sh](https://github.com/lizh9885/Language-Ranker/blob/main/run.sh) file shows how to get similarity scores of each language pair
 
-run.sh in QA folder shows how to get the performance in reasoning task for different languages
+[run.sh](https://github.com/lizh9885/Language-Ranker/blob/main/QA%20/run.sh) in QA folder shows how to get the performance in reasoning task for different languages
